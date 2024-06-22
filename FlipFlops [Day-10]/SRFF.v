@@ -13,3 +13,4 @@ case({S,R})
 2'b11 :  begin Q <= Qbar; Qbar <= Q; end
 endcase
 end
+endmodule
