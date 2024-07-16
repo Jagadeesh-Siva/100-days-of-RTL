@@ -12,3 +12,4 @@ A = 4'b0110; B = 4'b0101; #3
 A = 4'b0101; B = 4'b0110; #3
 $stop;
 end
+endmodule
